@@ -233,7 +233,11 @@ h1 {
 }
 
 .page-hero h1 {
-  font-size: clamp(3.2rem, 7vw, 7rem);
+  font-size: clamp(2.85rem, 5.8vw, 6rem);
+}
+
+.long-copy-hero h1 {
+  font-size: clamp(2.55rem, 5vw, 5.2rem);
 }
 
 .lead {
@@ -678,6 +682,11 @@ h1 {
   align-items: flex-end;
   background: var(--ink);
   color: #f5fbf9;
+}
+
+.page-hero.cinematic-hero {
+  padding-top: clamp(48px, 7vw, 96px);
+  padding-bottom: clamp(40px, 6vw, 76px);
 }
 
 .cinematic-hero::after {
