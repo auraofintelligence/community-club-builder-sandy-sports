@@ -1,0 +1,9 @@
+Risk,Impact,Likelihood,Controls,Owner,Review date,Status
+One person holds all admin,High,Medium,"Lead, backup, checklist, shared folder, monthly review",Chair,,Open
+Money handled without visibility,High,Low,"Two-person payment approval, finance report, receipt storage",Treasurer,,Open
+Child safety breach,High,Low,"Blue card checks where required, supervision plan, incident process",Safety lead,,Open
+Event runs without permission,High,Medium,"Venue permission checklist, insurance check, written approval",Events lead,,Open
+Volunteer burnout,High,Medium,"Limit activity load, rotate rosters, stop scaling when roles are empty",Volunteer lead,,Open
+Overclaiming cultural approval,High,Low,"No cultural claims without appropriate permission and guidance",Chair,,Open
+Private member data exposed,High,Low,"Privacy rules, limited access, no sensitive data in AI prompts",Digital admin lead,,Open
+Weather or heat issue,Medium,Medium,"Cancellation trigger, shade, water, first aid, heat check",Safety lead,,Open

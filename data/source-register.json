@@ -1,0 +1,63 @@
+{
+  "lastChecked": "2026-07-07",
+  "officialSources": [
+    {
+      "label": "Queensland Government - set up an incorporated association",
+      "url": "https://www.qld.gov.au/community/fair-trading/associations-charities-and-non-for-profits/incorporated-associations/set-up-an-incorporated-association",
+      "usedFor": "Queensland incorporation requirements and steps"
+    },
+    {
+      "label": "Queensland Government - rules for associations",
+      "url": "https://www.qld.gov.au/community/fair-trading/associations-charities-and-non-for-profits/incorporated-associations/running-an-incorporated-association/rules-for-associations",
+      "usedFor": "Model rules and constitution guidance"
+    },
+    {
+      "label": "Queensland Government - management committee duties",
+      "url": "https://www.qld.gov.au/community/fair-trading/associations-charities-and-non-for-profits/incorporated-associations/running-an-incorporated-association/incorporated-association-management-committee/what-committee-does",
+      "usedFor": "Committee responsibilities"
+    },
+    {
+      "label": "Queensland Government - blue cards for sport and active recreation",
+      "url": "https://www.qld.gov.au/jobs/blue-card/required/individuals-businesses/sport-active-recreation",
+      "usedFor": "Child-related sport and active recreation blue card guidance"
+    },
+    {
+      "label": "ATO - NFP self-review return",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/not-for-profit-organisations/statements-and-returns/nfp-self-review-return-reporting-requirement",
+      "usedFor": "Annual NFP self-review return awareness"
+    },
+    {
+      "label": "Australian Sports Commission - women and girls",
+      "url": "https://www.ausport.gov.au/integrity_in_sport/inclusive-sport/understanding-our-diverse-audiences/women-and-girls",
+      "usedFor": "Women and girls participation and leadership guidance"
+    }
+  ],
+  "privateSourceDrafts": [
+    {
+      "label": "Sandy Sports proposal first draft",
+      "usedFor": "Amity activation concept, governance, membership, marketing and grant evidence ideas"
+    },
+    {
+      "label": "Sandy Sports and Film Festival strategy draft",
+      "usedFor": "Cultural co-design, sport and screen synergy, phased implementation"
+    },
+    {
+      "label": "Sandy Sports Convergence draft",
+      "usedFor": "Distributed hub model across Amity, Dunwich and Point Lookout"
+    }
+  ],
+  "publicSiblingRepos": [
+    {
+      "label": "Amity Outdoor Fitness and Safer Access",
+      "url": "https://github.com/auraofintelligence/amity-outdoor-fitness-grant"
+    },
+    {
+      "label": "Amity Point",
+      "url": "https://github.com/auraofintelligence/amity-point"
+    },
+    {
+      "label": "Ballow Road Sand and Screen Hub",
+      "url": "https://github.com/auraofintelligence/ballow-road-sand-screen-hub"
+    }
+  ]
+}
