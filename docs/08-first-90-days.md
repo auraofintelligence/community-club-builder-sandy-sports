@@ -6,7 +6,7 @@ This is the smallest sane pathway.
 
 - Invite 10-15 possible founders to one conversation.
 - Explain the no lone hero rule.
-- Ask the wrong reasons filter questions.
+- Ask motivation and fit questions without turning them into a purity test.
 - Identify at least 7 likely members.
 - Confirm whether there are enough women and family/community voices in the room.
 - Create a shared folder.

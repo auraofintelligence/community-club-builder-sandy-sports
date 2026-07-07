@@ -2,7 +2,7 @@
 
 This repo is a multi-page public website and practical playbook for building a community club that is legal, welcoming, digitally organised, and light enough that it does not burn out one person.
 
-The worked example is a possible sand sports club on Minjerribah / North Stradbroke Island. It is separate from the Amity and 10-12 Ballow Road concept repos, but it references them as nearby context. The club idea here is not "claim a site first". It is "build a trustworthy club first, then earn the right to use places well".
+The worked example is a possible sand sports club on Minjerribah / North Stradbroke Island. It is separate from the Amity and 10-12 Ballow Road concept repos, but it references them as nearby context. It does not assume sand courts already exist, does not claim Ballow Road ownership or control, and treats a purpose-built Dunwich facility as a future horizon. The club idea here is not "claim a site first". It is "build a trustworthy club first, then earn the right to use places well".
 
 ## Core Lesson
 

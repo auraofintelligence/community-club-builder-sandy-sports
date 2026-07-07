@@ -35,13 +35,16 @@ These were used as source context, not copied wholesale:
 Key ideas carried forward:
 
 - club first, site later
-- Amity as activation example
-- Dunwich / Ballow Road as logistics and media context
+- Amity as early activation concept
+- Dunwich as longer facility horizon
+- Ballow Road as uncertain paddock, logistics and media context
 - Point Lookout as showcase context
 - outdoor cinema and screen culture as possible event layer
 - cultural co-design before cultural claims
 - digital systems to reduce volunteer load
 - evidence capture for grants and sponsor trust
+
+The source posture is exploratory. The guide does not claim existing sand courts, Ballow Road ownership or current approval for a Dunwich facility.
 
 ## Public Sibling Repos
 

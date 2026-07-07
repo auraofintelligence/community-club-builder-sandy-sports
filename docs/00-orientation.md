@@ -6,7 +6,9 @@ Plain version: a good club is a safe container where people can meet, move, help
 
 ## The Club We Are Trying To Build
 
-The worked example is a sand sports club on Minjerribah / North Stradbroke Island. It could support beach volleyball, beach cricket, beach touch, roundnet, ultimate, family games, film nights, youth clinics and wellbeing gatherings.
+The worked example is a possible sand sports club on Minjerribah / North Stradbroke Island. It does not assume existing sand courts. Temporary beach activity can test demand, while any purpose-built Dunwich facility remains a future horizon that depends on land, permissions, ownership clarity and community support.
+
+It could support beach volleyball, beach cricket, beach touch, roundnet, ultimate, family games, film nights, youth clinics and wellbeing gatherings.
 
 The deeper purpose is not sport for its own sake. It is a true meeting and mixing place for wellbeing.
 
@@ -23,7 +25,7 @@ The club should be:
 
 ## The Point Lookout Fishing Club Lesson
 
-The lesson carried into this repo is blunt: if people join for the wrong reasons, or if everything falls onto one person, the club will not hold.
+The lesson carried into this repo is practical rather than gospel: if motives drift, or if everything falls onto one person, the club will not hold.
 
 So the design starts with load-sharing.
 
@@ -39,7 +41,7 @@ That sounds boring. It is actually freedom. It means the founder can sleep.
 
 ## The Sand Sports Example
 
-The Sandy Sports source drafts already contain big ideas: Amity as an activation node, Dunwich / Ballow Road as a logistics and media node, Point Lookout as a showcase node, outdoor cinema, cultural co-design, sand sport programming and digital media.
+The Sandy Sports source drafts already contain big ideas: Amity as an early activation concept, Dunwich as the longer facility horizon, Ballow Road as uncertain paddock/context, Point Lookout as a possible showcase node, outdoor cinema, cultural co-design, sand sport programming and digital media.
 
 This repo distils those ideas into a more basic question:
 

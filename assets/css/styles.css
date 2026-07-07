@@ -344,6 +344,11 @@ h1 {
   margin-bottom: 0;
 }
 
+.split h2,
+.feature-copy h2 {
+  margin-bottom: 22px;
+}
+
 .section-head p,
 .split p,
 .feature-copy p {
@@ -654,9 +659,17 @@ h1 {
   background: var(--paper-strong);
 }
 
+.dark .prev-next a {
+  color: var(--ink);
+}
+
 .prev-next span {
   color: var(--muted);
   font-size: 0.9rem;
+}
+
+.site-footer .muted {
+  color: rgba(245, 251, 249, 0.72);
 }
 
 .site-footer {
