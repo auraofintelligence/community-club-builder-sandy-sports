@@ -30,6 +30,16 @@
       "label": "Australian Sports Commission - women and girls",
       "url": "https://www.ausport.gov.au/integrity_in_sport/inclusive-sport/understanding-our-diverse-audiences/women-and-girls",
       "usedFor": "Women and girls participation and leadership guidance"
+    },
+    {
+      "label": "OAIC - privacy and commercially available AI products",
+      "url": "https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products",
+      "usedFor": "Privacy-aware AI admin posture"
+    },
+    {
+      "label": "Australian Sports Commission - gender equity network",
+      "url": "https://www.ausport.gov.au/clearinghouse/networks/gender-equity",
+      "usedFor": "Gender-equity governance context"
     }
   ],
   "privateSourceDrafts": [
@@ -44,6 +54,10 @@
     {
       "label": "Sandy Sports Convergence draft",
       "usedFor": "Distributed hub model across Amity, Dunwich and Point Lookout"
+    },
+    {
+      "label": "Sandy Sports deep-research report",
+      "usedFor": "Non-gospel input on standalone club entity, AI-first operating layers and phased proof model"
     }
   ],
   "publicSiblingRepos": [
@@ -58,6 +72,22 @@
     {
       "label": "Ballow Road Sand and Screen Hub",
       "url": "https://github.com/auraofintelligence/ballow-road-sand-screen-hub"
+    },
+    {
+      "label": "Stradbroke Grants Lab",
+      "url": "https://github.com/auraofintelligence/stradbroke-grants-lab"
+    },
+    {
+      "label": "Straddie Tenders Lab",
+      "url": "https://github.com/auraofintelligence/straddie-tenders-lab"
+    },
+    {
+      "label": "Quandamooka Film Festival",
+      "url": "https://github.com/auraofintelligence/quandamooka-film-festival"
+    },
+    {
+      "label": "Film Club Documentary Builders",
+      "url": "https://github.com/auraofintelligence/film-club-documentary-builders"
     }
   ]
 }

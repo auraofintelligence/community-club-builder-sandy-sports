@@ -3,9 +3,26 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED = [
+    ".nojekyll",
     "README.md",
     "AGENTS.md",
     "LICENCE.md",
+    "favicon.svg",
+    "index.html",
+    "pathway.html",
+    "governance.html",
+    "operating-system.html",
+    "ecosystem.html",
+    "sandy-sports.html",
+    "builders.html",
+    "sources.html",
+    "assets/css/styles.css",
+    "assets/js/site.js",
+    "assets/img/hero-community.png",
+    "assets/img/admin-system.png",
+    "assets/img/ecosystem-map.png",
+    "assets/img/women-led-setup.png",
+    "assets/design/concept-homepage.png",
     "docs/00-orientation.md",
     "docs/01-legitimate-process-qld.md",
     "docs/02-constitution-and-rules.md",
@@ -30,6 +47,7 @@ FORBIDDEN = [
     "C:" + "\\Users\\lukec",
     "02_" + "Processed_MD",
     "PDFs_" + "to_Sort",
+    "Down" + "loads",
 ]
 
 

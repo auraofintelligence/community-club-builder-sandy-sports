@@ -17,9 +17,11 @@ This page separates official sources, public sibling repos and private source dr
 - Queensland Sport - Active Clubs: <https://www.sport.qld.gov.au/sport/funding-programs/active-clubs>
 - Queensland Ministerial Media Statement - Games On grassroots funding: <https://statements.qld.gov.au/statements/104414>
 - Australian Sports Commission - women and girls: <https://www.ausport.gov.au/integrity_in_sport/inclusive-sport/understanding-our-diverse-audiences/women-and-girls>
+- Australian Sports Commission - gender equity network: <https://www.ausport.gov.au/clearinghouse/networks/gender-equity>
 - Australian Sports Commission - governance education: <https://www.ausport.gov.au/governance/education>
 - Australian Sports Commission - Sport Governance Principles: <https://www.ausport.gov.au/__data/assets/pdf_file/0006/912705/Sport-Governance-Framework.pdf>
 - Play by the Rules - inclusion and complaint handling resources: <https://www.playbytherules.net.au/>
+- OAIC - privacy and commercially available AI products: <https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products>
 
 ## Private Sandy Sports Source Drafts
 
@@ -28,6 +30,7 @@ These were used as source context, not copied wholesale:
 - Sandy Sports proposal first draft
 - Sandy Sports and Film Festival strategy draft
 - Sandy Sports Convergence draft
+- Sandy Sports deep-research report
 
 Key ideas carried forward:
 
@@ -45,6 +48,10 @@ Key ideas carried forward:
 - Amity Outdoor Fitness and Safer Access: <https://github.com/auraofintelligence/amity-outdoor-fitness-grant>
 - Amity Point: <https://github.com/auraofintelligence/amity-point>
 - Ballow Road Sand and Screen Hub: <https://github.com/auraofintelligence/ballow-road-sand-screen-hub>
+- Stradbroke Grants Lab: <https://github.com/auraofintelligence/stradbroke-grants-lab>
+- Straddie Tenders Lab: <https://github.com/auraofintelligence/straddie-tenders-lab>
+- Quandamooka Film Festival: <https://github.com/auraofintelligence/quandamooka-film-festival>
+- Film Club Documentary Builders: <https://github.com/auraofintelligence/film-club-documentary-builders>
 
 ## Refresh Rule
 
