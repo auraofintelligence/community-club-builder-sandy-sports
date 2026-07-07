@@ -48,13 +48,13 @@ The source posture is exploratory. The guide does not claim existing sand courts
 
 ## Public Sibling Repos
 
-- Amity Outdoor Fitness and Safer Access: <https://github.com/auraofintelligence/amity-outdoor-fitness-grant>
-- Amity Point: <https://github.com/auraofintelligence/amity-point>
-- Ballow Road Sand and Screen Hub: <https://github.com/auraofintelligence/ballow-road-sand-screen-hub>
-- Stradbroke Grants Lab: <https://github.com/auraofintelligence/stradbroke-grants-lab>
-- Straddie Tenders Lab: <https://github.com/auraofintelligence/straddie-tenders-lab>
-- Quandamooka Film Festival: <https://github.com/auraofintelligence/quandamooka-film-festival>
-- Film Club Documentary Builders: <https://github.com/auraofintelligence/film-club-documentary-builders>
+- Amity Outdoor Fitness and Safer Access: <https://auraofintelligence.github.io/amity-outdoor-fitness-grant/>
+- Amity Point: <https://auraofintelligence.github.io/amity-point/>
+- Ballow Road Sand and Screen Hub: <https://auraofintelligence.github.io/ballow-road-sand-screen-hub/>
+- Stradbroke Grants Lab: <https://auraofintelligence.github.io/stradbroke-grants-lab/>
+- Straddie Tenders Lab: <https://auraofintelligence.github.io/straddie-tenders-lab/>
+- Quandamooka Film Festival: <https://auraofintelligence.github.io/quandamooka-film-festival/>
+- Film Club Documentary Builders: <https://auraofintelligence.github.io/film-club-documentary-builders/>
 
 ## Refresh Rule
 

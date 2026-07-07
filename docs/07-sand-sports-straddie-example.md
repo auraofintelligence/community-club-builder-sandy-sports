@@ -44,9 +44,9 @@ The broader ecosystem can be understood as:
 
 Related public context:
 
-- Amity Outdoor Fitness and Safer Access: <https://github.com/auraofintelligence/amity-outdoor-fitness-grant>
-- Amity Point: <https://github.com/auraofintelligence/amity-point>
-- Ballow Road Sand and Screen Hub: <https://github.com/auraofintelligence/ballow-road-sand-screen-hub>
+- Amity Outdoor Fitness and Safer Access: <https://auraofintelligence.github.io/amity-outdoor-fitness-grant/>
+- Amity Point: <https://auraofintelligence.github.io/amity-point/>
+- Ballow Road Sand and Screen Hub: <https://auraofintelligence.github.io/ballow-road-sand-screen-hub/>
 
 ## Partnerships To Explore
 

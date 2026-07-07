@@ -25,11 +25,14 @@ The club has to be designed so that:
 - `ecosystem.html` - grants, tenders, film, documentary and site-context labs.
 - `sandy-sports.html` - Sandy Sports worked example.
 - `builders.html` - local templates and adjacent builder links.
+- `templates.html` - human-facing template guide for the source template files.
+- `background.html` - human-facing guide map for the background docs.
 - `sources.html` - official sources, source posture and generated-asset boundary.
+- `licence.html` - HTML licence and use boundary.
 
 ## Playbook Docs
 
-Read these in order if you want the Markdown guide layer:
+For human readers, use `background.html` and `templates.html` first. The Markdown guide layer remains as the source/workshop layer:
 
 1. [Orientation](docs/00-orientation.md)
 2. [Legitimate Queensland Club Process](docs/01-legitimate-process-qld.md)
@@ -68,15 +71,15 @@ As at 7 July 2026, the official Queensland guidance says an incorporated associa
 
 ## Related Public Context
 
-- [Amity Outdoor Fitness and Safer Access](https://github.com/auraofintelligence/amity-outdoor-fitness-grant)
-- [Amity Point](https://github.com/auraofintelligence/amity-point)
-- [Ballow Road Sand and Screen Hub](https://github.com/auraofintelligence/ballow-road-sand-screen-hub)
-- [Stradbroke Grants Lab](https://github.com/auraofintelligence/stradbroke-grants-lab)
-- [Straddie Tenders Lab](https://github.com/auraofintelligence/straddie-tenders-lab)
-- [Quandamooka Film Festival](https://github.com/auraofintelligence/quandamooka-film-festival)
-- [Film Club Documentary Builders](https://github.com/auraofintelligence/film-club-documentary-builders)
+- [Ballow Road Sand and Screen Hub](https://auraofintelligence.github.io/ballow-road-sand-screen-hub/)
+- [Dunwich Ferry Terminal Open Data Lab](https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/)
+- [Amity Outdoor Fitness and Safer Access](https://auraofintelligence.github.io/amity-outdoor-fitness-grant/)
+- [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/)
+- [Straddie Tenders Lab](https://auraofintelligence.github.io/straddie-tenders-lab/)
+- [Quandamooka Film Festival](https://auraofintelligence.github.io/quandamooka-film-festival/)
+- [Film Club Documentary Builders](https://auraofintelligence.github.io/film-club-documentary-builders/)
 
-Those repos are neighbouring context. This repo is the club-building operating model that could support a sand sports idea without merging every site, funding, tender or film story into one legal body.
+Those public pages are neighbouring context. This repo is the club-building operating model that could support a sand sports idea without merging every site, funding, tender or film story into one legal body.
 
 ## Local Checks
 

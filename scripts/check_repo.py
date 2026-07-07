@@ -1,4 +1,5 @@
 from pathlib import Path
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -15,7 +16,10 @@ REQUIRED = [
     "ecosystem.html",
     "sandy-sports.html",
     "builders.html",
+    "templates.html",
+    "background.html",
     "sources.html",
+    "licence.html",
     "assets/css/styles.css",
     "assets/js/site.js",
     "assets/img/hero-community.png",
@@ -50,6 +54,8 @@ FORBIDDEN = [
     "Down" + "loads",
 ]
 
+RAW_PUBLIC_LINK = re.compile(r'href="[^"]+\.(?:md|csv)"', re.IGNORECASE)
+
 
 def main() -> int:
     missing = [path for path in REQUIRED if not (ROOT / path).exists()]
@@ -75,6 +81,18 @@ def main() -> int:
         print("Possible local path leakage found:")
         for path, needle in leaks:
             print(f" - {path}: {needle}")
+        return 1
+
+    raw_links = []
+    for path in ROOT.glob("*.html"):
+        text = path.read_text(encoding="utf-8")
+        for match in RAW_PUBLIC_LINK.findall(text):
+            raw_links.append((path.relative_to(ROOT), match))
+
+    if raw_links:
+        print("Public HTML links directly to raw support files:")
+        for path, link in raw_links:
+            print(f" - {path}: {link}")
         return 1
 
     print("Repo check passed.")
