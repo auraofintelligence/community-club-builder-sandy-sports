@@ -4,7 +4,7 @@ This is the example thread. It is not a claim that any site, partner, approval o
 
 ## Club First, Site Later
 
-The source drafts explore sand sports around Amity, Dunwich, Ballow Road, Point Lookout, outdoor cinema, media systems and a distributed island model. They do not prove that sand courts, land access, approvals or partners already exist.
+The source drafts explore sand sports around Amity, the Dunwich/Gumpi horizon with Ballow Road as uncertain site context inside it, Point Lookout, outdoor cinema, media systems and a distributed island model. They do not prove that sand courts, land access, approvals or partners already exist.
 
 This repo turns that into a club-building sequence:
 
@@ -38,9 +38,9 @@ The broader ecosystem can be understood as:
 | Place | Possible Role | Boundary |
 | --- | --- | --- |
 | Amity Point | Early activation and community sport concept | Needs proper site permissions |
-| Dunwich | Longer facility horizon | Requires land, permission, funding and support |
-| Ballow Road | Uncertain paddock, logistics and screen context | Separate repo and no assumed ownership or control |
-| Point Lookout | Showcase events and visitor-facing moments | Not the daily operating base |
+| Dunwich/Gumpi | Landing, services, civic/cultural conversation and longer facility horizon | Requires land, permission, funding and support |
+| Ballow Road | Uncertain paddock, logistics and screen context inside the Dunwich/Gumpi horizon | Separate repo and no assumed ownership or control |
+| Point Lookout | Other larger town pole; visitor-facing, tourism-worker, retiree, showcase and media moments | Not the assumed daily operating base |
 
 Related public context:
 

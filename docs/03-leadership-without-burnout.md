@@ -1,10 +1,10 @@
 # Leadership Without Burnout
 
-The club should be designed so one missing person does not stop the whole thing.
+Design the club so one missing person does not stop the whole thing.
 
 ## The No Lone Hero Rule
 
-Every important task needs:
+Every important task works better with:
 
 - lead
 - backup
@@ -26,11 +26,11 @@ Minimum legal committee thinking is not enough for a healthy club. A healthier s
 | Safety and wellbeing lead | Risk, incidents, child safety, inclusion | Events lead |
 | Volunteer and membership lead | Onboarding, rosters, recognition | Digital admin lead |
 | Digital admin lead | Forms, folders, automations, AI prompts | Secretary |
-| Events and sport lead | Program, coaches, gear, venue needs | Safety lead |
+| Events and sport lead | Program, coaches, gear, venue requirements | Safety lead |
 
-## Female-led And Mixed Gender By Design
+## Trusted Female Leadership And Mixed Gender By Design
 
-Do not wait until the club "gets big" to fix culture.
+Notice culture while the group is still small enough to shape it.
 
 Practical design choices:
 
@@ -67,10 +67,10 @@ Keep meetings small and predictable:
 - annual general meeting
 - 15-minute post-event debrief after each activation
 
-Every meeting should answer:
+Every meeting can answer:
 
 - What changed?
-- What needs a decision?
+- What is open for decision?
 - Who is doing the next small thing?
 - What can AI draft or summarise so people are not stuck at midnight doing admin?
 

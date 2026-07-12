@@ -122,6 +122,12 @@ a {
   min-width: 0;
 }
 
+.brand[aria-current="page"] .brand-mark {
+  box-shadow:
+    0 0 0 3px rgba(0, 109, 112, 0.16),
+    0 10px 26px rgba(0, 109, 112, 0.24);
+}
+
 .nav-toggle {
   display: none;
   width: 42px;
@@ -152,10 +158,10 @@ a {
 
 .site-nav a {
   text-decoration: none;
-  font-size: 0.92rem;
+  font-size: 0.88rem;
   font-weight: 720;
   color: var(--ink-soft);
-  padding: 10px 12px;
+  padding: 10px 9px;
   border-radius: var(--radius);
 }
 
@@ -166,9 +172,12 @@ a {
   color: var(--teal);
 }
 
+.site-nav a[aria-current="page"] {
+  box-shadow: inset 0 0 0 1px rgba(0, 109, 112, 0.28);
+}
+
 .nav-action {
-  border: 1px solid var(--teal);
-  color: var(--teal) !important;
+  color: var(--ink-soft);
 }
 
 .hero {
@@ -379,7 +388,11 @@ h1 {
 
 .path-card,
 .system-card,
-.resource-card {
+.resource-card,
+.role-card,
+.spectrum-card,
+.loop-step,
+.milestone-card {
   background: var(--paper-strong);
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -403,7 +416,11 @@ h1 {
 
 .path-card p,
 .system-card p,
-.resource-card p {
+.resource-card p,
+.role-card p,
+.spectrum-card p,
+.loop-step p,
+.milestone-card p {
   color: var(--muted);
 }
 
@@ -457,6 +474,57 @@ h1 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 14px;
+}
+
+.role-grid,
+.spectrum-grid,
+.truth-grid,
+.milestone-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+
+.authority-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+}
+
+.role-card h3,
+.spectrum-card h3,
+.loop-step h3,
+.milestone-card h3 {
+  font-size: 1.28rem;
+  line-height: 1.12;
+}
+
+.role-card strong {
+  color: var(--ink);
+}
+
+.spectrum-card span {
+  display: block;
+  color: var(--teal);
+}
+
+.evidence-loop {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+  margin-bottom: 14px;
+}
+
+.loop-step span {
+  display: inline-grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  background: var(--teal);
+  color: #fff;
+  font-weight: 820;
+  margin-bottom: 18px;
 }
 
 .system-card {
@@ -878,6 +946,12 @@ h1 {
   .hero-panel,
   .path-grid,
   .system-grid,
+  .role-grid,
+  .spectrum-grid,
+  .truth-grid,
+  .milestone-grid,
+  .authority-grid,
+  .evidence-loop,
   .resource-grid,
   .section-head,
   .split,

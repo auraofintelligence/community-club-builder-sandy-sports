@@ -22,6 +22,9 @@ This page separates official sources, public sibling repos and private source dr
 - Australian Sports Commission - Sport Governance Principles: <https://www.ausport.gov.au/__data/assets/pdf_file/0006/912705/Sport-Governance-Framework.pdf>
 - Play by the Rules - inclusion and complaint handling resources: <https://www.playbytherules.net.au/>
 - OAIC - privacy and commercially available AI products: <https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products>
+- Lifeline Australia - crisis support: <https://www.lifeline.org.au/131114>
+- Kids Helpline: <https://www.kidshelpline.com.au/>
+- 13YARN: <https://www.13yarn.org.au/>
 
 ## Private Sandy Sports Source Drafts
 
@@ -36,9 +39,9 @@ Key ideas carried forward:
 
 - club first, site later
 - Amity as early activation concept
-- Dunwich as longer facility horizon
-- Ballow Road as uncertain paddock, logistics and media context
-- Point Lookout as showcase context
+- Dunwich/Gumpi as landing, services, civic/cultural conversation and longer facility horizon
+- Ballow Road as uncertain paddock, logistics and media context inside the Dunwich/Gumpi horizon
+- Point Lookout as the other larger town pole, useful for visitor-facing, tourism-worker, retiree, showcase and media moments
 - outdoor cinema and screen culture as possible event layer
 - cultural co-design before cultural claims
 - digital systems to reduce volunteer load

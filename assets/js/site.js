@@ -20,24 +20,34 @@ if (backToTop) {
 
 const choiceData = {
   lawful: {
-    title: "You want the clean legal shell first.",
-    body: "Start with the Queensland association path, founding meeting, model rules, committee roles and site-permission boundary. The useful move is not a grand launch; it is a club that can hold money, records and responsibility without blurring into any one site project.",
+    title: "Legitimacy",
+    body: "Early on, this lane suits people who stay calm around rules, money, insurance, permissions and clean records. Before the club exists formally, they help keep the proposal honest; once the club is real, they protect trust when grants, partners and site conversations get serious.",
     href: "governance.html"
   },
   load: {
-    title: "You want the load off one person.",
-    body: "Start with shared roles, backups, handover notes and a visible task spine. A club is healthier when knowledge sits in the system, not in one founder's head or inbox.",
+    title: "Continuity",
+    body: "Early excitement is easy. Continuity is the quieter work of remembering the next step, making sure someone else can cover a role, and turning loose conversations into decisions people can find later. It lets a future committee inherit movement instead of a mystery.",
     href: "pathway.html"
   },
   admin: {
-    title: "You want the admin to feel lighter.",
-    body: "Start with the AI-first operating system: forms, registers, reminders, draft minutes, grant evidence and privacy-aware review gates. AI drafts. Humans decide.",
+    title: "Systems",
+    body: "This lane is for people who can make the work lighter before it becomes heavy. A shared drive, forms, registers, reminders and AI-assisted drafts let the first committee inherit an operating rhythm instead of building admin from scratch.",
     href: "operating-system.html"
   },
   ecosystem: {
-    title: "You want the wider opportunity map.",
-    body: "Start with the companion labs. Grants prepare funding stories, tenders prepare delivery capability, film builders prepare evidence and storytelling, and the club gives people a stable meeting place.",
+    title: "Relationships",
+    body: "Some people can have careful conversations across school, sport, Council, local business, ferry context, makers, media, funders and site ideas. Early on, that is listening and mapping; later, it becomes partnership discipline: open doors, clear boundaries, no promises before permission.",
     href: "ecosystem.html"
+  },
+  opportunity: {
+    title: "Care and proof",
+    body: "Before any big facility claim, the club can earn evidence through small, visible activity: people turning up, returning, bringing family, learning, competing, helping and feeling less alone. This lane keeps care, records and opportunity in the same conversation.",
+    href: "opportunity-stack.html"
+  },
+  team: {
+    title: "Culture",
+    body: "Culture starts before minutes exist. This lane recognises the people whose presence makes others more likely to play, listen, compete fairly, recover from a loss, celebrate a win and bring someone new next time. Later, those people help hold authority without turning the club into a status game.",
+    href: "human-team.html"
   }
 };
 
@@ -51,7 +61,7 @@ if (choiceButtons.length && choicePanel) {
       <h3>${item.title}</h3>
       <p>${item.body}</p>
       <div class="button-row">
-        <a class="button primary" href="${item.href}">Open this path</a>
+        <a class="button primary" href="${item.href}">Explore this lane</a>
       </div>
     `;
     choiceButtons.forEach((button) => {

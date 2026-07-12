@@ -25,7 +25,7 @@ Suggested folders:
 11 AI Drafts
 ```
 
-No private laptop should be the only place where club knowledge lives.
+No private laptop is a good single home for club knowledge.
 
 ## The Basic Automation Stack
 
@@ -87,7 +87,7 @@ Every week:
 1. Form responses land in the spreadsheet.
 2. AI drafts a short admin summary.
 3. Digital admin lead checks it.
-4. Secretary adds decisions needed to the agenda.
+4. Secretary adds open decisions to the agenda.
 5. Treasurer checks money items.
 6. Volunteer lead checks roster gaps.
 7. Committee sees one simple dashboard.

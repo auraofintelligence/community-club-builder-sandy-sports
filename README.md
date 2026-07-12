@@ -10,7 +10,7 @@ If one person is the operating system, the club is already fragile.
 
 The club has to be designed so that:
 
-- leadership is mixed gender or female-led from the start
+- leadership is mixed gender, with trusted female leadership from the start
 - women, girls, families, Elders, young people and visitors all feel the club is for them
 - admin is shared, visible and automated wherever possible
 - AI helps with drafts, reminders, records and grant evidence, but people still make the decisions
@@ -23,6 +23,8 @@ The club has to be designed so that:
 - `governance.html` - legal shell, constitution and committee culture.
 - `operating-system.html` - AI-first admin architecture and privacy posture.
 - `ecosystem.html` - grants, tenders, film, documentary and site-context labs.
+- `opportunity-stack.html` - agile evidence, opportunity navigation and rule posture.
+- `human-team.html` - four-person committee archetypes and selection spectrum.
 - `sandy-sports.html` - Sandy Sports worked example.
 - `builders.html` - local templates and adjacent builder links.
 - `templates.html` - human-facing template guide for the source template files.
@@ -42,7 +44,7 @@ For human readers, use `background.html` and `templates.html` first. The Markdow
 6. [Marketing and Community Trust](docs/05-marketing-and-community-trust.md)
 7. [AI-first Admin System](docs/06-ai-first-admin-system.md)
 8. [Sandy Sports Worked Example](docs/07-sand-sports-straddie-example.md)
-9. [First 90 Days](docs/08-first-90-days.md)
+9. [Milestones and Evidence Loops](docs/08-milestones-and-evidence-loops.md)
 10. [Source Map](docs/09-source-map.md)
 
 Templates live in [templates](templates).
@@ -67,7 +69,7 @@ The site is static and can also be opened by double-clicking `index.html`.
 
 This is a guide, not legal advice. It is meant to help a founding group understand the steps before they speak to the Office of Fair Trading, Council, insurers, Traditional Owner bodies, sporting bodies, funders and local partners.
 
-As at 7 July 2026, the official Queensland guidance says an incorporated association needs at least 7 members, must be not-for-profit, must have a physical Queensland address, must hold the right founding meeting steps, must adopt rules, and must elect a management committee. Check the official links in the legal process guide before lodging anything, because rules, fees and grants change.
+As at 7 July 2026, the official Queensland guidance says an incorporated association requires at least 7 members, a not-for-profit purpose, a physical Queensland address, the right founding meeting steps, adopted rules, and an elected management committee. Check the official links in the legal process guide before lodging anything, because rules, fees and grants change.
 
 ## Related Public Context
 
@@ -76,8 +78,12 @@ As at 7 July 2026, the official Queensland guidance says an incorporated associa
 - [Amity Outdoor Fitness and Safer Access](https://auraofintelligence.github.io/amity-outdoor-fitness-grant/)
 - [Stradbroke Grants Lab](https://auraofintelligence.github.io/stradbroke-grants-lab/)
 - [Straddie Tenders Lab](https://auraofintelligence.github.io/straddie-tenders-lab/)
+- [Straddie Maker-Space Lab](https://auraofintelligence.github.io/straddie-makerspace-lab/)
+- [Ready S.E.T. Co-op Trust Hub](https://auraofintelligence.github.io/ready-set-co-op-trust-hub/)
+- [Ready S.E.T. Co-op Hyperlocal Media](https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/)
 - [Quandamooka Film Festival](https://auraofintelligence.github.io/quandamooka-film-festival/)
 - [Film Club Documentary Builders](https://auraofintelligence.github.io/film-club-documentary-builders/)
+- [Straddie Noticeboard Network](https://auraofintelligence.github.io/straddie-noticeboard-network/)
 
 Those public pages are neighbouring context. This repo is the club-building operating model that could support a sand sports idea without merging every site, funding, tender or film story into one legal body.
 

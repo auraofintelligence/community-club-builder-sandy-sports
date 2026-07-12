@@ -7,7 +7,7 @@ Use these with approved notes and non-sensitive data.
 ```text
 You are helping a small Queensland community sport club prepare a committee agenda.
 Use Australian English.
-Turn these notes into a short agenda with decisions needed, discussion items, action items and owners.
+Turn these notes into a short agenda with open decisions, discussion items, action items and owners.
 Do not invent facts or approvals.
 
 Notes:

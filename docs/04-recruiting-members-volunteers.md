@@ -60,7 +60,7 @@ Ask every serious volunteer:
 - Do you prefer people, paperwork, gear, safety, media or money?
 - Can you do a tiny recurring task monthly?
 - Do you consent to being in the shared volunteer register?
-- Do you need accessibility, timing or family support to participate?
+- What accessibility, timing or family support would help you participate?
 
 ## Recognition
 

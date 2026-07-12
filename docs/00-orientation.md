@@ -14,11 +14,11 @@ The deeper purpose is not sport for its own sake. It is a true meeting and mixin
 
 ## The Pattern
 
-The club should be:
+The pattern favours a club that is:
 
 - lawful before it is loud
 - community-led before it is sponsor-led
-- mixed gender or female-led before old habits settle in
+- mixed gender, with trusted female leadership before old habits settle in
 - culturally respectful before it talks about Country
 - digitally organised before admin piles up
 - small enough to test before it asks for big money
@@ -29,7 +29,7 @@ The lesson carried into this repo is practical rather than gospel: if motives dr
 
 So the design starts with load-sharing.
 
-Every important job needs:
+Every important job works better with:
 
 - one named lead
 - one backup
@@ -41,7 +41,7 @@ That sounds boring. It is actually freedom. It means the founder can sleep.
 
 ## The Sand Sports Example
 
-The Sandy Sports source drafts already contain big ideas: Amity as an early activation concept, Dunwich as the longer facility horizon, Ballow Road as uncertain paddock/context, Point Lookout as a possible showcase node, outdoor cinema, cultural co-design, sand sport programming and digital media.
+The Sandy Sports source drafts already contain big ideas: Amity as an early activation concept, Dunwich/Gumpi as the longer facility horizon, Ballow Road as uncertain paddock/context inside that Dunwich/Gumpi lane, Point Lookout as the other larger town pole and possible showcase node, outdoor cinema, cultural co-design, sand sport programming and digital media.
 
 This repo distils those ideas into a more basic question:
 

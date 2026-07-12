@@ -1,6 +1,6 @@
 # Marketing And Community Trust
 
-Marketing should feel like an invitation, not a sales funnel.
+Marketing works best as an invitation, not a sales funnel.
 
 ## The First Promise
 
@@ -44,7 +44,7 @@ Start with:
 
 ## Story Rules
 
-Every post should do one job:
+Every post works best when it does one job:
 
 - invite
 - thank

@@ -64,7 +64,7 @@ Does:
 - accessibility checks
 - wellbeing culture
 
-This role needs authority to slow an event down.
+This role has authority to slow an event down.
 
 ## Volunteer And Membership Lead
 
@@ -102,7 +102,7 @@ Guards delivery.
 Does:
 
 - activity calendar
-- gear needs
+- gear requirements
 - coaching roster
 - venue booking checklist
 - event run sheet

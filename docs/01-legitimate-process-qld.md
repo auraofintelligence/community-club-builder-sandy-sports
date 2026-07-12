@@ -37,7 +37,7 @@ Do not imply approval, endorsement, affiliation with a Traditional Owner body, a
 
 The rules are the club's constitution.
 
-Queensland lets an association use the Office of Fair Trading model rules or create its own rules. The model rules are the safest starting point for a new group. If the club changes the model rules, it needs to understand what it is changing.
+Queensland lets an association use the Office of Fair Trading model rules or create its own rules. The model rules are the safest starting point for a new group. If the club changes the model rules, understand what is changing.
 
 Official rules guidance: <https://www.qld.gov.au/community/fair-trading/associations-charities-and-non-for-profits/incorporated-associations/running-an-incorporated-association/rules-for-associations>
 
@@ -61,7 +61,7 @@ Committee duties guidance: <https://www.qld.gov.au/community/fair-trading/associ
 
 ## 5. Lodge The Incorporation Application
 
-Queensland guidance says applications usually need the association name, committee details, rules, objects, and land information if the association owns or leases land. Fees and forms can change.
+Queensland guidance says applications usually ask for the association name, committee details, rules, objects, and land information if the association owns or leases land. Fees and forms can change.
 
 Forms and fees: <https://www.qld.gov.au/community/fair-trading/associations-charities-and-non-for-profits/incorporated-associations/incorporated-associations-forms-and-fees>
 
@@ -121,6 +121,6 @@ Useful public funding starting points:
 
 Incorporation does not give the club the right to use a site.
 
-For a Minjerribah sand sports example, the club would still need the proper site permissions, Council conversations, insurance, cultural engagement and event approvals. Do that slowly and respectfully.
+For a Minjerribah sand sports example, the club would still rely on proper site permissions, Council conversations, insurance, cultural engagement and event approvals. Do that slowly and respectfully.
 
 Simple rule: club first, trust next, place after that.

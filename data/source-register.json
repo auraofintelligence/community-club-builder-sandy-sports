@@ -40,6 +40,21 @@
       "label": "Australian Sports Commission - gender equity network",
       "url": "https://www.ausport.gov.au/clearinghouse/networks/gender-equity",
       "usedFor": "Gender-equity governance context"
+    },
+    {
+      "label": "Lifeline Australia - crisis support",
+      "url": "https://www.lifeline.org.au/131114",
+      "usedFor": "Crisis-support reference for suicide-aware community care"
+    },
+    {
+      "label": "Kids Helpline",
+      "url": "https://www.kidshelpline.com.au/",
+      "usedFor": "Youth counselling reference for community care"
+    },
+    {
+      "label": "13YARN",
+      "url": "https://www.13yarn.org.au/",
+      "usedFor": "Culturally safe crisis-support reference"
     }
   ],
   "privateSourceDrafts": [
@@ -82,12 +97,36 @@
       "url": "https://auraofintelligence.github.io/straddie-tenders-lab/"
     },
     {
+      "label": "Dunwich Ferry Terminal Open Data Lab",
+      "url": "https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/"
+    },
+    {
+      "label": "Straddie Maker-Space Lab",
+      "url": "https://auraofintelligence.github.io/straddie-makerspace-lab/"
+    },
+    {
+      "label": "Ready S.E.T. Co-op Trust Hub",
+      "url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/"
+    },
+    {
+      "label": "Ready S.E.T. Co-op Hyperlocal Media",
+      "url": "https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/"
+    },
+    {
+      "label": "Sandworm Subterranean Systems",
+      "url": "https://auraofintelligence.github.io/Sandworm-subterranean-systems/"
+    },
+    {
       "label": "Quandamooka Film Festival",
       "url": "https://auraofintelligence.github.io/quandamooka-film-festival/"
     },
     {
       "label": "Film Club Documentary Builders",
       "url": "https://auraofintelligence.github.io/film-club-documentary-builders/"
+    },
+    {
+      "label": "Straddie Noticeboard Network",
+      "url": "https://auraofintelligence.github.io/straddie-noticeboard-network/"
     }
   ]
 }
