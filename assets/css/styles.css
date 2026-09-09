@@ -708,6 +708,194 @@ h1 {
   box-shadow: 0 16px 48px rgba(7, 21, 34, 0.06);
 }
 
+.constitution-agenda-hero .button-row {
+  margin-top: 24px;
+}
+
+.constitution-agenda-hero .button {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.42);
+  color: #fff;
+}
+
+.constitution-agenda-hero .button.primary {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: var(--ink);
+}
+
+.meeting-fields {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px 32px;
+  margin-top: 28px;
+}
+
+.meeting-fields p,
+.decision-record {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+}
+
+.meeting-fields span,
+.decision-record span {
+  min-height: 34px;
+  border-bottom: 1px solid var(--ink-soft);
+}
+
+.agenda-key {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 36px;
+}
+
+.agenda-key p {
+  margin: 0;
+  padding: 18px;
+  border-radius: var(--radius);
+  background: var(--teal-soft);
+}
+
+.agenda-list {
+  display: grid;
+  gap: 22px;
+}
+
+.agenda-item {
+  padding: clamp(24px, 4vw, 44px);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--paper-strong);
+  box-shadow: 0 16px 48px rgba(7, 21, 34, 0.06);
+}
+
+.agenda-item h3 {
+  margin-bottom: 24px;
+  font-size: clamp(1.5rem, 2.5vw, 2.25rem);
+}
+
+.agenda-item h4 {
+  margin-bottom: 10px;
+  font-size: 0.88rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.suggested-answer,
+.other-options {
+  padding: 22px;
+  border-radius: var(--radius);
+}
+
+.suggested-answer {
+  background: var(--teal-soft);
+  border: 1px solid rgba(0, 109, 112, 0.18);
+}
+
+.suggested-answer h4 {
+  color: #075b5d;
+}
+
+.other-options {
+  margin-top: 12px;
+  background: var(--sand);
+}
+
+.other-options h4 {
+  color: var(--clay);
+}
+
+.suggested-answer > :last-child,
+.other-options > :last-child {
+  margin-bottom: 0;
+}
+
+.decision-record {
+  margin-top: 22px;
+}
+
+.adoption-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.adoption-grid article {
+  padding: 28px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.adoption-grid .decision-record span {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.official-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.official-links a {
+  color: #fff;
+  font-weight: 760;
+}
+
+@media print {
+  .site-header,
+  .hero-media,
+  .mini-map,
+  .constitution-agenda-hero .button-row,
+  .site-footer,
+  .back-to-top,
+  .prev-next,
+  .official-links {
+    display: none !important;
+  }
+
+  .page-hero,
+  .band,
+  .dark {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  .page-hero {
+    min-height: 0;
+    padding: 32px 0;
+  }
+
+  .page-hero .wrap {
+    display: block;
+  }
+
+  .page-hero h1,
+  .page-hero .lead,
+  .dark h2,
+  .dark h3,
+  .dark p {
+    color: #000 !important;
+  }
+
+  .agenda-item,
+  .adoption-grid article {
+    break-inside: avoid;
+    box-shadow: none;
+    border-color: #bbb;
+  }
+
+  .suggested-answer,
+  .other-options,
+  .agenda-key p,
+  .adoption-grid article {
+    background: #fff !important;
+  }
+}
+
 .template-block h3 {
   margin-bottom: 12px;
 }
@@ -1028,6 +1216,20 @@ h1 {
 
   .prev-next {
     grid-template-columns: 1fr;
+  }
+
+  .meeting-fields,
+  .agenda-key,
+  .adoption-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .agenda-item,
+  .suggested-answer,
+  .other-options,
+  .adoption-grid article {
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .brand span {
